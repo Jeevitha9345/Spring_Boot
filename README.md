@@ -4,3 +4,5 @@ Learned to do more annotations in Spring Boot (@GetMapping, @RestController, @Co
 
 Learned to get data from form and saved it in repository
 Added Spring Boot Handwritten notes in docx format
+
+Created a form and store the data in the local storage that is database
