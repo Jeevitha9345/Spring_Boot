@@ -8,3 +8,5 @@ Added Spring Boot Handwritten notes in docx format
 Created a form and store the data in the local storage that is database
 
 Learned a new dependency thyme leaf
+
+Done a team project while learning the Spring Boot in the full stack development
