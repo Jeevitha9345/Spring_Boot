@@ -1,0 +1,13 @@
+#employee {
+    background-color: rgb(185, 218, 229);
+    border: 2px solid rgb(109, 97, 241);
+    padding: 20px;
+    margin: 20px;
+    color: rgb(109, 97, 241);
+    flex-basis: 350px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
