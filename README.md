@@ -9,6 +9,7 @@ Created a form and store the data in the local storage that is database
 
 Learned a new dependency thyme leaf
 
+Learned a new dependency Lombok which is used for default getter and setter
 Done a team project while learning the Spring Boot in the full stack development
 
 Learned front-end - HTML,CSS, JavaScript and React
