@@ -12,6 +12,8 @@ Learned a new dependency thyme leaf
 Learned a new dependency Lombok which is used for default getter and setter
 Done a team project while learning the Spring Boot in the full stack development
 
+Learned to create front-end and connect it with back-end
+
 Learned front-end - HTML,CSS, JavaScript and React
 Back-end - Java
 Database - PostgreSQL
