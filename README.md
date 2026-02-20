@@ -15,6 +15,7 @@ Done a team project while learning the Spring Boot in the full stack development
 Learned to create front-end and connect it with back-end
 
 Learned react js and do some basic operations 
+Learned to connect front-end and back-end for a simple web application
 
 Learned front-end - HTML,CSS, JavaScript and React
 Back-end - Java
