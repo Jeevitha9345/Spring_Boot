@@ -20,4 +20,4 @@ Learned to connect front-end, database and back-end for a simple web application
 
 Learned front-end - HTML,CSS, JavaScript and React
 Back-end - Java
-Database - PostgreSQL
+Database - PostgreSQL (Structure SQL)
