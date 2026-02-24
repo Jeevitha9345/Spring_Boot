@@ -6,14 +6,10 @@ Learned to get data from form and saved it in repository
 Added Spring Boot Handwritten notes in docx format
 
 Created a form and store the data in the local storage that is database
-
 Learned a new dependency thyme leaf
-
 Learned a new dependency Lombok which is used for default getter and setter
 Done a team project while learning the Spring Boot in the full stack development
-
 Learned to create front-end and connect it with back-end
-
 Learned react js and do some basic operations 
 Learned to connect front-end and back-end for a simple web application
 Learned to connect front-end, database and back-end for a simple web application
