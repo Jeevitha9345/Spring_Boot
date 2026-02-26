@@ -18,3 +18,5 @@ Created a simple game using java
 Learned front-end - HTML,CSS, JavaScript and React
 Back-end - Java
 Database - PostgreSQL (Structure SQL)
+
+Making a project for learning and understanding the concepts, practice it
